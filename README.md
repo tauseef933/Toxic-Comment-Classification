@@ -17,3 +17,5 @@ Key Features
 🛡️ Content Moderation: Detects harmful language patterns
 
 🎯 95% Accuracy: Carefully optimized preprocessing pipeline
+
+you can download the dataset from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
